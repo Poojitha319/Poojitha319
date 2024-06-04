@@ -1,12 +1,13 @@
 ![](https://github.com/Poojitha319/Poojitha319/blob/main/poojitha.gif)
 <h1 align="center">Hi 👋, I'm Poojitha</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate data scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojitha319&label=Profile%20views&color=0e75b6&style=flat" alt="poojitha319" /> </p>
 
+<h3 align="left">About me:</h3>
+                            
 - 🔭 I’m currently working on **Mlops**
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **ML,DL,Python**
 
@@ -32,3 +33,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=poojitha319&show_icons=true&locale=en&layout=compact" alt="poojitha319" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poojitha319&" alt="poojitha319" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=poojitha319&label=Profile%20views&color=0e75b6&style=flat" alt="poojitha319" /> </p>
+
